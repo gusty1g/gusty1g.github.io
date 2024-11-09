@@ -2,7 +2,7 @@
 title = "Now"
 +++
 
-Last updated on Oct 26th, 2024.
+Last updated on Nov 9th, 2024.
 
 <!--
 - Practicing SQL queries, learnt Apache Airflow and worked out a few examples on it. 
@@ -10,6 +10,8 @@ Last updated on Oct 26th, 2024.
 
 ### Readings
 -->
+Came to know about the [Spell](https://en.wikipedia.org/wiki/Spell_(Unix)) Unix utility for spell-check and it's super-cool.
+
 ### Writings
 Posted the blog post [Winning by Not Playing](../musings/win-by-not-playing).
 
