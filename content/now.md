@@ -2,18 +2,10 @@
 title = "Now"
 +++
 
-Last updated on Dec 28th, 2024.
+Last updated on Feb 15, 2025.
 
-Nothing this month.
-<!--
-- Practicing SQL queries, learnt Apache Airflow and worked out a few examples on it. 
-- Learning more about databases.
+# Learning Kannada
+It has been almost an year now since I moved to Bengaluru last July and I managed to learn only a few words in Kannada. 
+I bought the book [Fluent Forever](https://fluent-forever.com/book/), read it, loaded kannada alphabets to Anki and memorizing them.
 
-### Readings
--->
-
-
-<!--
-### Open Source
--->
 (This is a [now](https://nownownow.com/about) page and you should make one too.)
